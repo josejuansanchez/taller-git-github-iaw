@@ -116,7 +116,12 @@ Una línea.
 
 Otra línea.
 
-<!- Este texto es un comentario y no será renderizado -->
+<!-- Este texto es un comentario y no será renderizado -->
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
+
+# Emojis
+
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
